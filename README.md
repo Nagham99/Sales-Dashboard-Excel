@@ -1,5 +1,3 @@
-# Sales-Dashboard-Excel
-Interactive Sales Dashboard built using Microsoft Excel
 # 📊 Sales Dashboard – Excel Data Analysis Project
 
 ## 📌 Overview
