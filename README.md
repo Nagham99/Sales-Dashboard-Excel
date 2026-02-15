@@ -4,6 +4,11 @@
 Interactive Sales Dashboard built in Microsoft Excel to analyze multi-year sales performance.
 
 ---
+## 📷 Dashboard Preview
+
+![Dashboard Overview](images/dashboard.png)
+
+![Top 10 Section](images/Top10.png)
 
 ## 🔢 Key Metrics
 
@@ -23,11 +28,7 @@ Interactive Sales Dashboard built in Microsoft Excel to analyze multi-year sales
 
 ---
 
-## 📷 Dashboard Preview
 
-![Dashboard Overview](images/dashboard.png)
-
-![Top 10 Section](images/Top10.png)
 
 
 
