@@ -27,7 +27,7 @@ Interactive Sales Dashboard built in Microsoft Excel to analyze multi-year sales
 
 ![Dashboard Overview](images/dashboard.png)
 
-![Top 10 Section](images/Top 10.png)
+![Top 10 Section](images/Top10.png)
 
 
 
